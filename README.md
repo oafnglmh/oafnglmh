@@ -13,7 +13,7 @@
 - 💼 1 year of professional experience at **INOTEV JOINT STOCK COMPANY**  
 - 💬 Ask me about **Fullstack, Flutter, Node.js, React, Java, PHP**  
 - 📫 How to reach me **hcassano.dev@gmail.com**  
-- ⚡ Fun fact: **I love coding & games ☕**  
+- ⚡ Fun fact: **I love coding & games & soccer☕**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
